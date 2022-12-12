@@ -1,0 +1,14 @@
+
+Form: 
+[√] - Pontos dátum
+[√] - Munkavégzés helye 
+[√] - Munka leírása
+[√] - Mennyi időt vett igénybe
+[√] - Elhasznált anyagok
+[√] - Hány fő dolgozott rajta
+
+Főbb funkciók:
+    - Az adatokat be lehet írni, ezeket később pdf-be konvertálja
+    - A munkavégzésből egy nap több is lehet, így új formot lehet létrehozni neki, 
+    amit ugyanabba a dokumentumba ment el.
+    - Az anyagokat kidobja egy legördülő menü. (Később.)
